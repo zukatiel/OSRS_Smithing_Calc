@@ -1,7 +1,9 @@
-# OSRS_Smithing_Calc
+# OSRS Smithing Calculator
 
 ## Purpose: 
 The uploaded Excel spreadsheet contains a calculator intended for use in creating a plan for training the Smithing skill in Old School Runescape using the 3 primary methods of Giant's Foundry, Blast Furnace, and Anvil smithing, based on currently banked resources. As of the date of creation (03/11/23) there is no readily accessible plug-in or calculator which accounts for all 3 primary methods of training the skill simultaneously.
+
+Note that if you do not have access to Excel, you can find a similar program at the following link: https://docs.google.com/spreadsheets/d/1qTs8CYYIbHDXP6yPL0bed90v_D4wDfkoNVRxan3VUiw/edit?usp=sharing. While the Excel spreadsheet is more polished and has formatting to make usage more intuitive, the formulas at least have been copy-pasted into the Google Sheet.
 
 
 ## Intended Use
